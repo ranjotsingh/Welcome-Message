@@ -1,0 +1,10 @@
+Package: com.ranjotsingh.helloworld
+Name: HelloWorld
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: This displays the HelloWorld message upon every respring.
+Maintainer: ranjotsingh
+Author: ranjotsingh
+Section: Tweaks
+Version: 1.0.0-2
+Installed-Size: 69
